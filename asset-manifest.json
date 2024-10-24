@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3c9e0df5.css",
-    "main.js": "/static/js/main.f24936d6.js",
+    "main.css": "/static/css/main.ee92843f.css",
+    "main.js": "/static/js/main.475c3926.js",
     "static/js/453.b49a1f4c.chunk.js": "/static/js/453.b49a1f4c.chunk.js",
     "static/media/player.png": "/static/media/player.57cb90554ab5b6664b7b.png",
     "static/media/training.jpeg": "/static/media/training.7fc44d3d57ce5ea9dfa2.jpeg",
@@ -12,13 +12,14 @@
     "static/media/coaching.jpeg": "/static/media/coaching.21ee4cf6bc8abae94a5d.jpeg",
     "static/media/logo512.png": "/static/media/logo512.2693e3e4fac33724c532.png",
     "static/media/high2.webp": "/static/media/high2.6f7bbc9433d1e7773c34.webp",
+    "static/media/williamt.png": "/static/media/williamt.63511d8f53385b8e72ac.png",
     "index.html": "/index.html",
-    "main.3c9e0df5.css.map": "/static/css/main.3c9e0df5.css.map",
-    "main.f24936d6.js.map": "/static/js/main.f24936d6.js.map",
+    "main.ee92843f.css.map": "/static/css/main.ee92843f.css.map",
+    "main.475c3926.js.map": "/static/js/main.475c3926.js.map",
     "453.b49a1f4c.chunk.js.map": "/static/js/453.b49a1f4c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c9e0df5.css",
-    "static/js/main.f24936d6.js"
+    "static/css/main.ee92843f.css",
+    "static/js/main.475c3926.js"
   ]
 }
